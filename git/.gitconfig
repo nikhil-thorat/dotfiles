@@ -1,0 +1,19 @@
+[user]
+	name = nikhil-thorat
+	email = nikhilthoratofficial@gmail.com
+[core]
+	editor = nvim
+[init]
+	defaultBranch = main
+[diff]
+	colorMoved = zebra
+[merge]
+	conflictstyle = diff3
+[pull]
+	rebase = true
+[alias]
+    st = status
+    cm = commit
+    br = branch
+    lg = log
+    pu = push
