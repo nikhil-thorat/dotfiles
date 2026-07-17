@@ -22,6 +22,7 @@ sudo pacman -Syu --needed \
     tmux \
     tree \
     ttf-jetbrains-mono-nerd \
+    ttf-departure-mono-nerd \
     unzip \
     wget \
     zip \
