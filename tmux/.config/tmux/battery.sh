@@ -14,5 +14,5 @@ if [ "$status" = "Discharging" ]; then
         echo "#[fg=brightred,bold,bg=default] λ "
     fi
 else
-    echo "#[fg=green,bg=black]░▒▓#[fg=black,bold,bg=green] λ "
+    echo "#[fg=brightgreen,bg=black]░▒▓#[fg=black,bold,bg=brightgreen] λ "
 fi
